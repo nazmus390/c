@@ -1,8 +1,8 @@
 Project Title
-One Paragraph of project description goes here
+this is a c programing project, that's make for programing leaners
 
 Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+just pull e request and start contributing.
 
 Prerequisites
 What things you need to install the software and how to install them
